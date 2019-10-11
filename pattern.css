@@ -23,4 +23,8 @@ a{
 }
 body{
     background:url("https://images.unsplash.com/photo-1512998844734-cd2cca565822?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=363&q=80")
+
+}
+.card{
+    border: 2px solid #adb5bd;
 }
